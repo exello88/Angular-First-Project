@@ -1,0 +1,23 @@
+.userCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.userCard{
+    color:white;
+    width: 300px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+mat-card-title{
+    font-size: 30px;
+}
+mat-card-subtitle{
+    font-size: 20px;
+}
+.user-card__EmailTitle{
+    margin-top: 50px;
+}
